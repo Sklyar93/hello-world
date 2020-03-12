@@ -1,2 +1,3 @@
 let number = 5,
-	string = 'hello';
+	string = 'hello',
+	user = 'Valera';
